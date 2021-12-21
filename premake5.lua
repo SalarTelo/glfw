@@ -32,7 +32,6 @@ project "GLFW"
 			"src/cocoa_window.m",
 			"src/posix_thread.c",
 			"src/nsgl_context.m",
-			"src/wgl_context.c",
 			"src/egl_context.c",
 			"src/osmesa_context.c"
 		}
